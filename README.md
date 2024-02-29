@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar Sah</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
-<img align = "right" alt = "coding" width = "200" src "![image](https://github.com/chandankrsah09/chandankrsah09/assets/138473541/2d6d2527-e9b7-4a29-a733-9ef1056c8875)
-" />
+<p <img align = "right" alt = "coding" width = "200" src "![image](https://github.com/chandankrsah09/chandankrsah09/assets/138473541/2d6d2527-e9b7-4a29-a733-9ef1056c8875)
+" /> /p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankrsah09&label=Profile%20views&color=0e75b6&style=flat" alt="chandankrsah09" /> </p>
 
